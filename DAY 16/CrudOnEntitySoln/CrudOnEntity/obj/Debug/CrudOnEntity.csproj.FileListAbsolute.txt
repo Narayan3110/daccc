@@ -1,0 +1,12 @@
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\bin\Debug\CrudOnEntity.exe.config
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\bin\Debug\CrudOnEntity.exe
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\bin\Debug\CrudOnEntity.pdb
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\bin\Debug\EntityFramework.dll
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\bin\Debug\EntityFramework.xml
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\obj\Debug\CrudOnEntity.csproj.AssemblyReference.cache
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\obj\Debug\CrudOnEntity.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\obj\Debug\CrudOnEn.AF6F1698.Up2Date
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\obj\Debug\CrudOnEntity.exe
+D:\DAC\DotNet\DAY 16\CrudOnEntitySoln\CrudOnEntity\obj\Debug\CrudOnEntity.pdb

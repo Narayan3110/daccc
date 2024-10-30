@@ -1,0 +1,6 @@
+D:\DAC\DotNet\Assembly\Consumer1\Lib1\bin\Debug\Lib1.dll
+D:\DAC\DotNet\Assembly\Consumer1\Lib1\bin\Debug\Lib1.pdb
+D:\DAC\DotNet\Assembly\Consumer1\Lib1\obj\Debug\Lib1.csproj.AssemblyReference.cache
+D:\DAC\DotNet\Assembly\Consumer1\Lib1\obj\Debug\Lib1.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\Assembly\Consumer1\Lib1\obj\Debug\Lib1.dll
+D:\DAC\DotNet\Assembly\Consumer1\Lib1\obj\Debug\Lib1.pdb

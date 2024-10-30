@@ -1,0 +1,6 @@
+D:\DAC\DotNet\Day11\Consumer1\Library11\bin\Debug\Library11.dll
+D:\DAC\DotNet\Day11\Consumer1\Library11\bin\Debug\Library11.pdb
+D:\DAC\DotNet\Day11\Consumer1\Library11\obj\Debug\Library11.csproj.AssemblyReference.cache
+D:\DAC\DotNet\Day11\Consumer1\Library11\obj\Debug\Library11.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\Day11\Consumer1\Library11\obj\Debug\Library11.dll
+D:\DAC\DotNet\Day11\Consumer1\Library11\obj\Debug\Library11.pdb

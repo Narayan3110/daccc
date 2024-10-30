@@ -1,0 +1,24 @@
+﻿@model FoodOrderSystem.Models.Abstract.FoodModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddFood</title>
+</head>
+<body>
+  @using (Html.BeginForm())
+            {
+                <p>OID @Html.TextBoxFor(x=>x.Oid)</p>
+                <p>Food name @Html.TextBoxFor(x=>x.Fname)</p>
+                <p>Quantity @Html.TextBoxFor(x=>x.Qty)</p>
+
+                <input type="submit" value=" Add" />
+            }
+</body>
+</html>

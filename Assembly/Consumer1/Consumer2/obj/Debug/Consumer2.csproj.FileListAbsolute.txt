@@ -1,0 +1,7 @@
+D:\DAC\DotNet\Assembly\Consumer1\Consumer2\bin\Debug\Consumer2.exe.config
+D:\DAC\DotNet\Assembly\Consumer1\Consumer2\bin\Debug\Consumer2.exe
+D:\DAC\DotNet\Assembly\Consumer1\Consumer2\bin\Debug\Consumer2.pdb
+D:\DAC\DotNet\Assembly\Consumer1\Consumer2\obj\Debug\Consumer2.csproj.AssemblyReference.cache
+D:\DAC\DotNet\Assembly\Consumer1\Consumer2\obj\Debug\Consumer2.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\Assembly\Consumer1\Consumer2\obj\Debug\Consumer2.exe
+D:\DAC\DotNet\Assembly\Consumer1\Consumer2\obj\Debug\Consumer2.pdb

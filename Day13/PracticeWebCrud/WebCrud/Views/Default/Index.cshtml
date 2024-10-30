@@ -1,0 +1,73 @@
+﻿@using WebCrud.Models
+@model IEnumerable< Animals>
+
+@{
+    ViewBag.message = "Donkey";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <style>
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin: 20px 0;
+                font-size: 18px;
+                text-align: left;
+                background-color: #f9f9f9;
+                border-radius: 8px;
+                overflow: hidden;
+            }
+
+            th, td {
+                padding: 12px 15px;
+                border-bottom: 1px solid #ddd;
+            }
+
+            th {
+                background-color: #4CAF50;
+                color: white;
+            }
+
+            tr:hover {
+                background-color: #f1f1f1;
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+        </style>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Legs</th>
+                    <th>Food</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ani in Model)
+                {
+                    <tr>
+                        <td>@ani.id</td>
+                        <td>@ani.Name</td>
+                        <td>@ani.Legs</td>
+                        <td>@ani.Food</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+﻿@using FoodOrderSystem.Models.Abstract
+@model IEnumerable< FoodModel >
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Order Id</th>
+                <th>Food Name</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tbody>
+            
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Oid</td>
+                    <td>@item.Fname</td>
+                    <td>@item.Qty</td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+    <button><a href="~/Home/AddFood">ADD</a></button>
+</body>
+</html>

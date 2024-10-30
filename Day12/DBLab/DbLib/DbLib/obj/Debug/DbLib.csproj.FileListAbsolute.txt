@@ -1,0 +1,9 @@
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\bin\Debug\DbLib.dll
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\bin\Debug\DbLib.pdb
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\bin\Debug\System.Data.SqlClient.dll
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\bin\Debug\System.Data.SqlClient.xml
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\obj\Debug\DbLib.csproj.AssemblyReference.cache
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\obj\Debug\DbLib.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\obj\Debug\DbLib.csproj.Up2Date
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\obj\Debug\DbLib.dll
+D:\DAC\DotNet\Day12\DBLab\DbLib\DbLib\obj\Debug\DbLib.pdb

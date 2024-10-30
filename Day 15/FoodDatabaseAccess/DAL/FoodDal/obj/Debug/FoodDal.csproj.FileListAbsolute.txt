@@ -1,0 +1,6 @@
+D:\DAC\DotNet\Day 15\FoodDatabaseAccess\DAL\FoodDal\bin\Debug\FoodDal.dll
+D:\DAC\DotNet\Day 15\FoodDatabaseAccess\DAL\FoodDal\bin\Debug\FoodDal.pdb
+D:\DAC\DotNet\Day 15\FoodDatabaseAccess\DAL\FoodDal\obj\Debug\FoodDal.csproj.AssemblyReference.cache
+D:\DAC\DotNet\Day 15\FoodDatabaseAccess\DAL\FoodDal\obj\Debug\FoodDal.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\Day 15\FoodDatabaseAccess\DAL\FoodDal\obj\Debug\FoodDal.dll
+D:\DAC\DotNet\Day 15\FoodDatabaseAccess\DAL\FoodDal\obj\Debug\FoodDal.pdb

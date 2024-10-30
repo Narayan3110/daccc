@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title - My Animals</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <ul>
+        @*<li>@Html.ActionLink("All", "Index") </li>*@
+        <li>@Html.ActionLink("Add", "AddAnimal") </li>
+    </ul>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+</body>
+</html>

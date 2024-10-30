@@ -1,0 +1,6 @@
+D:\DAC\DotNet\tanisha\StuDAL\bin\Debug\StuDAL.dll
+D:\DAC\DotNet\tanisha\StuDAL\bin\Debug\StuDAL.pdb
+D:\DAC\DotNet\tanisha\StuDAL\obj\Debug\StuDAL.csproj.AssemblyReference.cache
+D:\DAC\DotNet\tanisha\StuDAL\obj\Debug\StuDAL.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\tanisha\StuDAL\obj\Debug\StuDAL.dll
+D:\DAC\DotNet\tanisha\StuDAL\obj\Debug\StuDAL.pdb

@@ -1,0 +1,10 @@
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\bin\Debug\Consumer1.exe.config
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\bin\Debug\Consumer1.exe
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\bin\Debug\Consumer1.pdb
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\bin\Debug\Library11.dll
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\bin\Debug\Library11.pdb
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\obj\Debug\Consumer1.csproj.AssemblyReference.cache
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\obj\Debug\Consumer1.csproj.CoreCompileInputs.cache
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\obj\Debug\Consumer1.csproj.Up2Date
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\obj\Debug\Consumer1.exe
+D:\DAC\DotNet\Day11\Consumer1\Consumer1\obj\Debug\Consumer1.pdb

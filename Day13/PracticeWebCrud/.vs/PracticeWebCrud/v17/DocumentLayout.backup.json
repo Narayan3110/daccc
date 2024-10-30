@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\webcrud\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\webcrud\\models\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\models\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\webcrud\\models\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\models\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|d:\\dac\\dotnet\\day13\\practicewebcrud\\webcrud\\models\\adata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\models\\adata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\webcrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\webcrud\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\webcrud\\views\\default\\addanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\default\\addanimal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A0115B6-A3D5-4519-860C-CC234C55992D}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:36:36.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddAnimal.cshtml",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Views\\Default\\AddAnimal.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Default\\AddAnimal.cshtml",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Views\\Default\\AddAnimal.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Default\\AddAnimal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:24:14.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:04:06.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Models\\IAnimal.cs",
+              "RelativeDocumentMoniker": "WebCrud\\Models\\IAnimal.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Models\\IAnimal.cs",
+              "RelativeToolTip": "WebCrud\\Models\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:45:47.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adata.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Models\\Adata.cs",
+              "RelativeDocumentMoniker": "WebCrud\\Models\\Adata.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Models\\Adata.cs",
+              "RelativeToolTip": "WebCrud\\Models\\Adata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:30:15.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Models\\Animals.cs",
+              "RelativeDocumentMoniker": "WebCrud\\Models\\Animals.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Models\\Animals.cs",
+              "RelativeToolTip": "WebCrud\\Models\\Animals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:28:25.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebCrud\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebCrud\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:27:04.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "WebCrud\\Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day13\\PracticeWebCrud\\WebCrud\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "WebCrud\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:26:56.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

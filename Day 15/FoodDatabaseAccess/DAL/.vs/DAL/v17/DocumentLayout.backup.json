@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAC\\DotNet\\Day 15\\FoodDatabaseAccess\\DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C67ED3-F833-4E91-A553-467705220D0C}|FoodDal\\FoodDal.csproj|d:\\dac\\dotnet\\day 15\\fooddatabaseaccess\\dal\\fooddal\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C67ED3-F833-4E91-A553-467705220D0C}|FoodDal\\FoodDal.csproj|solutionrelative:fooddal\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day 15\\FoodDatabaseAccess\\DAL\\FoodDal\\DataModel.cs",
+              "RelativeDocumentMoniker": "FoodDal\\DataModel.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day 15\\FoodDatabaseAccess\\DAL\\FoodDal\\DataModel.cs",
+              "RelativeToolTip": "FoodDal\\DataModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:46:10.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

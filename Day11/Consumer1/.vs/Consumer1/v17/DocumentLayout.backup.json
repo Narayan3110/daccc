@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAC\\DotNet\\Day11\\Consumer1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DFE2FC-C03D-4F02-936E-B3364061933A}|Consumer1\\Consumer1.csproj|D:\\DAC\\DotNet\\Day11\\Consumer1\\consumer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DFE2FC-C03D-4F02-936E-B3364061933A}|Consumer1\\Consumer1.csproj|solutionrelative:consumer1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA220C3-2B2B-41AF-AD57-72EA318F9721}|Library11\\Library11.csproj|D:\\DAC\\DotNet\\Day11\\Consumer1\\library11\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA220C3-2B2B-41AF-AD57-72EA318F9721}|Library11\\Library11.csproj|solutionrelative:library11\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DFE2FC-C03D-4F02-936E-B3364061933A}|Consumer1\\Consumer1.csproj|d:\\dac\\dotnet\\day11\\consumer1\\consumer1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6DFE2FC-C03D-4F02-936E-B3364061933A}|Consumer1\\Consumer1.csproj|solutionrelative:consumer1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085097E-D618-46D1-A4E8-C5ABF38D020C}|Consumer3\\Consumer3.csproj|d:\\dac\\dotnet\\day11\\consumer1\\consumer3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085097E-D618-46D1-A4E8-C5ABF38D020C}|Consumer3\\Consumer3.csproj|solutionrelative:consumer3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Consumer3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Consumer1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Library11||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA220C3-2B2B-41AF-AD57-72EA318F9721}|Library11\\Library11.csproj|d:\\dac\\dotnet\\day11\\consumer1\\library11\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DFE2FC-C03D-4F02-936E-B3364061933A}|Consumer1\\Consumer1.csproj|d:\\dac\\dotnet\\day11\\consumer1\\consumer1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085097E-D618-46D1-A4E8-C5ABF38D020C}|Consumer3\\Consumer3.csproj|d:\\dac\\dotnet\\day11\\consumer1\\consumer3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer3\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer3\\Program.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer3\\Program.cs",
+              "RelativeToolTip": "Consumer3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:02:06.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer1\\App.config",
+              "RelativeDocumentMoniker": "Consumer1\\App.config",
+              "ToolTip": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer1\\App.config",
+              "RelativeToolTip": "Consumer1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-20T15:58:47.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consumer3",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer3\\Consumer3.csproj",
+              "RelativeDocumentMoniker": "Consumer3\\Consumer3.csproj",
+              "ToolTip": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer3\\Consumer3.csproj",
+              "RelativeToolTip": "Consumer3\\Consumer3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T23:43:52.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library11",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Library11\\Library11.csproj",
+              "RelativeDocumentMoniker": "Library11\\Library11.csproj",
+              "ToolTip": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Library11\\Library11.csproj*",
+              "RelativeToolTip": "Library11\\Library11.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T23:40:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer1\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer1\\Program.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer1\\Program.cs",
+              "RelativeToolTip": "Consumer1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:38:11.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consumer1",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer1\\Consumer1.csproj",
+              "RelativeDocumentMoniker": "Consumer1\\Consumer1.csproj",
+              "ToolTip": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Consumer1\\Consumer1.csproj",
+              "RelativeToolTip": "Consumer1\\Consumer1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T22:54:05.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Library11\\Class1.cs",
+              "RelativeDocumentMoniker": "Library11\\Class1.cs",
+              "ToolTip": "D:\\DAC\\DotNet\\Day11\\Consumer1\\Library11\\Class1.cs",
+              "RelativeToolTip": "Library11\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:49:32.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
