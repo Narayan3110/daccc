@@ -1,0 +1,165 @@
+package PreparedStatement;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+public class ProductManagementSystem 
+{
+	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+		// load the driver
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		//get Connection
+		Connection con =DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc","root","cdacacts");
+		// create statement
+		PreparedStatement pmt;
+		// create query
+		String query;
+		//execute query
+		ResultSet rs;
+		Scanner sc = new Scanner(System.in);
+		while(true)
+		{
+			System.out.println("1. Add Product");
+            System.out.println("2. Update Product");
+            System.out.println("3. View All Products");
+            System.out.println("4. Search Product by Name or Category");
+            System.out.println("5. Calculate Total Inventory Value");
+            System.out.println("6. Exit");
+            System.out.print("Choose an option: ");
+            int option  = sc.nextInt();
+            System.out.println();
+            switch(option)
+            {
+            case 1: // add product
+            	query = "insert into Products values(?,?,?,?)";
+            	pmt = con.prepareStatement(query);
+            	 System.out.print("Enter Product Name: ");
+                 pmt.setString(1, sc.nextLine());
+                 System.out.print("Enter Category: ");
+                 pmt.setString(2, sc.nextLine());
+                 System.out.print("Enter Price: ");
+                 pmt.setDouble(3, sc.nextDouble());
+                 System.out.print("Enter Quantity: ");
+                 pmt.setInt(4, sc.nextInt());
+                 pmt.executeUpdate();
+                 System.out.println("Product added successfully.");
+                 break;
+            case 2: // update product
+            	query = "update Products set productName =?,category=?,price=?,quantity=? where productId=?";
+            	pmt = con.prepareStatement(query);
+            	System.out.println("enter productId to update");
+            	int id = sc.nextInt();
+            	System.out.println("enter new product name");
+            	pmt.setString(1, sc.nextLine());
+            	System.out.println("enter the new category");
+            	pmt.setString(2, sc.nextLine());
+            	System.out.println("enter the new price");
+            	pmt.setDouble(3, sc.nextDouble());
+            	System.out.println("enterr the new quantity");
+            	pmt.setInt(4, sc.nextInt());
+            	pmt.setInt(5, id);
+            	int rowsUpdated= pmt.executeUpdate();
+            	System.out.println(rowsUpdated + " record(s) updated.");
+                break;
+            case 3: // View all products
+            	query = "select * from Products";
+            	pmt = con.prepareStatement(query);
+            	rs = pmt.executeQuery();
+            	while(rs.next())
+            	{
+            		System.out.println(rs.getInt("productId")+" "+ rs.getString("productName")+" "+ rs.getString("category") +" "+ rs.getDouble("price") +" "
+                    + rs.getInt("quantity"));
+            	}
+            	rs.close();
+            	con.close();
+            	break;
+            case 4:  //Search Product by Name or Category
+            	query ="select * from Products where productName =? OR category =?";
+            	pmt =con.prepareStatement(query);
+            	System.out.print("Enter search keyword: ");
+                String keyword = sc.nextLine();
+                pmt.setString(1, "%" + keyword + "%");
+                pmt.setString(2, "%" + keyword + "%");
+                rs = pmt.executeQuery();
+                boolean found = false;
+                while (rs.next()) {
+                    found = true;
+                    System.out.println("ID: " + rs.getInt("productId") + 
+                                       ", Name: " + rs.getString("productName") +
+                                       ", Category: " + rs.getString("category") +
+                                       ", Price: $" + rs.getDouble("price") +
+                                       ", Quantity: " + rs.getInt("quantity"));
+                }
+                if (!found) {
+                    System.out.println("No products found matching the keyword.");
+                }
+                rs.close();
+                break;
+
+            case 5:
+                // Calculate total inventory value
+                query = "SELECT price, quantity FROM Products";
+                pmt = con.prepareStatement(query);
+                rs = pmt.executeQuery();
+                double totalValue = 0;
+                while (rs.next()) {
+                    totalValue += rs.getDouble("price") * rs.getInt("quantity");
+                }
+                System.out.println("Total Inventory Value: $" + totalValue);
+                rs.close();
+                break;
+
+            case 6:
+                // Exit
+                System.out.println("Exiting...");
+                con.close();
+                sc.close();
+                return;
+
+            default:
+                System.out.println("Invalid option. Please try again.");
+            }
+		}
+	}
+
+}
+---------------------------------
+[1:51 am, 5/11/2024] Harsh Shringi: create databsse jdbc;
+[1:51 am, 5/11/2024] Harsh Shringi: use jdbc;
+[1:52 am, 5/11/2024] Harsh Shringi: CREATE TABLE Products (
+    productId INT PRIMARY KEY AUTO_INCREMENT,
+    productName VARCHAR(50) NOT NULL,
+    category VARCHAR(50),
+    price DOUBLE,
+    quantity INT
+);
+[1:52 am, 5/11/2024] Harsh Shringi: INSERT INTO Products (productName, category, price, quantity) 
+VALUES 
+    ('T-shirt', 'Clothing', 19.99, 50),
+    ('Sneakers', 'Footwear', 59.99, 30),
+    ('Jeans', 'Clothing', 39.99, 20),
+    ('Laptop', 'Electronics', 799.99, 15),
+    ('Backpack', 'Accessories', 24.99, 100),
+    ('Headphones', 'Electronics', 49.99, 40),
+    ('Coffee Maker', 'Appliances', 89.99, 25),
+    ('Notebook', 'Stationery', 2.99, 500),
+    ('Desk Chair', 'Furniture', 149.99, 10),
+    ('Smartphone', 'Electronics', 699.99, 20);
+[1:53 am, 5/11/2024] Harsh Shringi: Add the JAR to Your Eclipse Project
+
+Open your Eclipse project.
+Right-click on the project in the Project Explorer or Package Explorer.
+Go to Build Path > Add External Archives...
+Navigate to the location of the downloaded MySQL Connector/J .jar file, select it, and click Open.
+Verify the JAR Is Added to the Build Path
+
+Right-click on your project again, go to Build Path > Configure Build Path.
+In the Libraries tab, you should see the MySQL Connector/J .jar file listed under Classpath.
+Click Apply and Close.
+------------------------------------------------------------------------------
+
+
